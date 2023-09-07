@@ -7,9 +7,8 @@ bash Kachung-Li.sh <OPTIES>
 ```
 De opties zijn terug te zien door de script zonder opties uit te voeren.
 
-Alle must haves zijn afgehandeld, en van de should haves zijn de taken 5A, 6A, 6B en 7a afgehandeld.
-
-## Must
+## Taken dev opdracht
+### Must
 - [x] **US-1A** Als docent wil ik dat een DevOps student een Linux bash script schrijft zodat deze laat zien over basis Linux vaardigheden te beschikken
 - [x] **US-1B** Als docent wil een echt 'CLI programma' wordt, dus die [command line opties](https://en.wikipedia.org/wiki/Command-line_interface#Command-line_option) van de gebruiker accepteert (en dus NIET een dialoog vom met gebruiker, hoogstens als uitbreiding) zodat iemand het gemaakte script in eigen scripts kan hergebruiken (compositie) 
 - [x] **US-2A** Als docent wil ik dat student het script Nederlandstalige optie- en flagnamen geeft (bv. `-h` en `--hostnaam`) zodat de student een voorproefje krijgt van deze DDD-conventie
@@ -19,7 +18,7 @@ Alle must haves zijn afgehandeld, en van de should haves zijn de taken 5A, 6A, 6
 - [x] **US-4B** Als docent wil ik dat de student het gemaakte script in een zelf aangemaakte privé repo zet, en deze een eigen, korte maar duidelijke en volledige [README](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme) geeft, inclusief een kopje met  de afgevinkte user stories uit deze lijst, zodat de repo zelfbeschrijvend is, de beoordelaar beschreven stappen domweg kan uitvoeren om het script te executeren, en de zonder README wellicht verborgen/impliciete dependencies kan terughalen zoals het gebruikte Linux distributie, versienummer en shell type
 - [x] **US-5** Als gebruiker wil ik dat het script de output van alle geimplementeerde user stories laat zien via een '--alles' optie, zodat ik als beoordelaar snel in 1 keer alle output kan verifieren
 
-## Should
+### Should
 - [ ] **US-5A** Als gebruiker wil ik dat het script het aantal subfolders van de [home](https://nl.wikipedia.org/wiki/Homedirectory) folder toont, zodat ik een beeld krijg hoe uitgebreid dit is
 - [x] **US-5B** Als gebruiker wil ik dat het script ook de naam van huidige gebruiker laat zien, zodat ik deze kan veriferen
 - [x] **US-6A** Als gebruiker wil ik dat het script het aantal bestanden in de huidige folder laat zien, zodat ik idee krijg hoe groot deze is
